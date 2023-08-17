@@ -1,0 +1,37 @@
+<svg width="100" height="124" viewBox="0 0 100 124" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_f_1_2532)">
+<mask id="mask0_1_2532" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="96" height="124">
+<mask id="mask1_1_2532" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="96" height="124">
+<mask id="mask2_1_2532" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="96" height="124">
+<mask id="mask3_1_2532" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="96" height="124">
+<mask id="mask4_1_2532" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="100" height="124">
+<rect width="100" height="123.446" rx="6.09891" fill="#366F28"/>
+</mask>
+<g mask="url(#mask4_1_2532)">
+<rect x="-0.846664" y="-7.6469e-06" width="96.0002" height="123.446" fill="#366F28"/>
+</g>
+</mask>
+<g mask="url(#mask3_1_2532)">
+<rect x="-0.846664" y="-7.6469e-06" width="96.0002" height="123.446" fill="#366F28"/>
+</g>
+</mask>
+<g mask="url(#mask2_1_2532)">
+<rect x="-11.5957" y="-17.7657" width="117.499" height="151.092" fill="#366F28"/>
+</g>
+</mask>
+<g mask="url(#mask1_1_2532)">
+<rect x="-0.846664" y="-7.6469e-06" width="96.0002" height="123.446" fill="#366F28"/>
+</g>
+</mask>
+<g mask="url(#mask0_1_2532)">
+<rect x="-4.68516" y="-0.000451167" width="103.678" height="133.32" fill="#366F28"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_1_2532" x="-45.8467" y="-45.8467" width="186.847" height="215.14" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="22.8709" result="effect1_foregroundBlur_1_2532"/>
+</filter>
+</defs>
+</svg>
